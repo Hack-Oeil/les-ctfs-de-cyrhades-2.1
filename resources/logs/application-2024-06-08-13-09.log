@@ -1,4 +1,0 @@
-2024-06-08 13:09:49.767 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du programme sur windows 11 (amd64)
-2024-06-08 13:09:49.770 [main] INFO  fr.cyrhades.ctfs.App - Emplacement du programme  C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\
-2024-06-08 13:09:49.930 [main] INFO  fr.cyrhades.ctfs.App - Démarrage de Rich Presence (discord)
-2024-06-08 13:09:49.935 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du serveur Web (port:8000)

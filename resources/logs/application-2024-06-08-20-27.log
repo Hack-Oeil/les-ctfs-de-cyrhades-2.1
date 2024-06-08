@@ -1,0 +1,20 @@
+2024-06-08 20:27:12.669 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du programme sur windows 11 (amd64)
+2024-06-08 20:27:12.671 [main] INFO  fr.cyrhades.ctfs.App - Emplacement du programme  C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\
+2024-06-08 20:27:12.675 [main] ERROR fr.cyrhades.ctfs.app.LanguageLoader - FileNotFound Exception C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\app\i18n\messages_fr.properties
+2024-06-08 20:27:12.834 [main] INFO  fr.cyrhades.ctfs.App - Démarrage de Rich Presence (discord)
+2024-06-08 20:27:12.839 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du serveur Web (port:8000)
+2024-06-08 20:27:24.621 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du programme sur windows 11 (amd64)
+2024-06-08 20:27:24.622 [main] INFO  fr.cyrhades.ctfs.App - Emplacement du programme  C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\
+2024-06-08 20:27:24.626 [main] ERROR fr.cyrhades.ctfs.app.LanguageLoader - FileNotFound Exception C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\app\i18n\messages_fr.properties
+2024-06-08 20:27:24.779 [main] INFO  fr.cyrhades.ctfs.App - Démarrage de Rich Presence (discord)
+2024-06-08 20:27:24.782 [main] ERROR fr.cyrhades.ctfs.App - Address already in use: bind
+2024-06-08 20:27:26.830 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du programme sur windows 11 (amd64)
+2024-06-08 20:27:26.831 [main] INFO  fr.cyrhades.ctfs.App - Emplacement du programme  C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\
+2024-06-08 20:27:26.835 [main] ERROR fr.cyrhades.ctfs.app.LanguageLoader - FileNotFound Exception C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\app\i18n\messages_fr.properties
+2024-06-08 20:27:26.986 [main] INFO  fr.cyrhades.ctfs.App - Démarrage de Rich Presence (discord)
+2024-06-08 20:27:26.989 [main] ERROR fr.cyrhades.ctfs.App - Address already in use: bind
+2024-06-08 20:27:29.116 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du programme sur windows 11 (amd64)
+2024-06-08 20:27:29.117 [main] INFO  fr.cyrhades.ctfs.App - Emplacement du programme  C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\
+2024-06-08 20:27:29.122 [main] ERROR fr.cyrhades.ctfs.app.LanguageLoader - FileNotFound Exception C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\app\i18n\messages_fr.properties
+2024-06-08 20:27:29.274 [main] INFO  fr.cyrhades.ctfs.App - Démarrage de Rich Presence (discord)
+2024-06-08 20:27:29.279 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du serveur Web (port:8000)
