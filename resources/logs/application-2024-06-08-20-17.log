@@ -1,0 +1,5 @@
+2024-06-08 20:17:55.901 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du programme sur windows 11 (amd64)
+2024-06-08 20:17:55.905 [main] INFO  fr.cyrhades.ctfs.App - Emplacement du programme  C:\Users\cyrha\Desktop\travail\developpement\LesCTFsDeCyrhades\dist_2.1\app\
+2024-06-08 20:17:55.908 [main] ERROR fr.cyrhades.ctfs.app.LanguageLoader - Directory i18n does not exist.
+2024-06-08 20:17:56.060 [main] INFO  fr.cyrhades.ctfs.App - Démarrage de Rich Presence (discord)
+2024-06-08 20:17:56.066 [main] INFO  fr.cyrhades.ctfs.App - Démarrage du serveur Web (port:8000)
