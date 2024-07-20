@@ -1,1 +1,2 @@
-resources
+resources/logs
+!resources/logs/.gitkeep
