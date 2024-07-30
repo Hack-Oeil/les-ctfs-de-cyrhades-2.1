@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+<port_juiceshop>3000</port_juiceshop>
+<port_requestbin>8101</port_requestbin>
+<last_module>challenge</last_module>
+<port_netcat>1234</port_netcat>
+<jwt/>
+<language>fr</language>
+<title_icone>not-colored</title_icone>
+<main_menu_size>min</main_menu_size>
+<port_dvwa>8080</port_dvwa>
+<not_use_authentication>false</not_use_authentication>
+<server_enable>true</server_enable>
+<main_menu_position>right</main_menu_position>
+<user_conected>false</user_conected>
+<theme>default</theme>
+</config>
